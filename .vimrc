@@ -1,0 +1,15 @@
+set bs=2
+set ts=4
+set st=4
+set sw=4
+set so=4
+set mouse=a
+set et
+set hls
+set is
+set nu
+set ru
+set si
+syn on
+colorscheme peachpuff
+set modelines=1
